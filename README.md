@@ -19,6 +19,7 @@
 <!-- | 2022         | Reproducing the effect of hippocampal network-targeted transcranial magnetic stimulation on episodic memory (NINDS)    | <ol><li> [Code](https://github.com/mfreedberg84/Hippocampal_network-targeted_stimulation_and_episodic_memory) </li><li>[BBR Paper](https://www.sciencedirect.com/science/article/abs/pii/S0166432821005957)</li></ol>                                |-->
 <!-- | 2022         | A direct test of competitive versus cooperative episodic–procedural network dynamics in human memory (NINDS)           | <ol><li> [Code](https://github.com/mfreedberg84/A_direct_test_of_cooperation/competition_between_memory_systems) </li><li>[Cerebral Cortex Paper](https://academic.oup.com/cercor/article/32/21/4715/6519536#377548975)</li></ol>                    |-->
 <!-- | Unpublished  | Do “Micro-offline gains” rely on rest or hippocampal-mediated processes? (UT Austin)                                   | <ol><li> [Code](https://github.com/mfreedberg84/Micro-offline_gains_and_rest) </li><li>Paper (forthcoming)</li></ol>                                                                                                                               |-->
+<!-- | Unpublished  | Contextual integration (UT Austin)                                                                                      | <ol><li> [Code](https://github.com/mfreedberg84/Micro-offline_gains_and_rest) </li><li>Paper (forthcoming)</li></ol>                                                                                                                               |-->
 
 
 
